@@ -4,7 +4,6 @@
     "description": "Language server for Clarity",
     "preview": true,
     "private": true,
-    "icon": "icon.png",
     "version": "0.1.0",
     "releaseTag": null,
     "publisher": "lgalabru",
