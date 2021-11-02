@@ -1,0 +1,22 @@
+{
+	"name": "clarity-vscode-client",
+	"description": "VSCode part of a language server in a web extension",
+	"author": "Ludo Galabru <ludo@hiro.so>",
+	"license": "MIT",
+	"version": "0.0.1",
+	"publisher": "vscode",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hirosystems/clarity-lsp"
+	},
+	"engines": {
+		"vscode": "^1.52.0"
+	},
+	"dependencies": {
+		"vscode-languageclient": "^7.0.0"
+	},
+	"devDependencies": {
+		"@types/vscode": "^1.52.0",
+		"@vscode/test-web": "^0.0.6"
+	}
+}

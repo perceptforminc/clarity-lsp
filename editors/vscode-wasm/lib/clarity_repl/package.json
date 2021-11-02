@@ -1,0 +1,22 @@
+{
+  "name": "clarity_repl",
+  "collaborators": [
+    "Ludo Galabru <ludovic@galabru.com>"
+  ],
+  "description": "Clarity REPL",
+  "version": "0.16.0",
+  "license": "GPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lgalabru/clarity-repl"
+  },
+  "files": [
+    "clarity_repl_bg.wasm",
+    "clarity_repl.js",
+    "clarity_repl.d.ts"
+  ],
+  "module": "clarity_repl.js",
+  "homepage": "https://lgalabru.github.io/clarity-repl/",
+  "types": "clarity_repl.d.ts",
+  "sideEffects": false
+}
