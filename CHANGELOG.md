@@ -1,3 +1,10 @@
+## [0.6.2](https://github.com/hirosystems/clarity-lsp/compare/v0.6.1...v0.6.2) (2022-01-26)
+
+
+### Bug Fixes
+
+* allow one character identifiers ([4c1de38](https://github.com/hirosystems/clarity-lsp/commit/4c1de3891bb37580c7d27661e9b5517ec1fb4ee7))
+
 # [0.6.0](https://github.com/hirosystems/clarity-lsp/compare/v0.5.1...v0.6.0) (2022-01-26)
 
 
